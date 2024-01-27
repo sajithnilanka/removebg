@@ -1,3 +1,3 @@
-pip install easygui
+pip install pillow
 pip install rembg
-python app.py
+python3 app.py
