@@ -1,3 +1,3 @@
 pip install pillow
 pip install rembg
-python3 app.py
+python3 x.py
